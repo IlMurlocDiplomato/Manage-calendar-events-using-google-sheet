@@ -34,8 +34,9 @@ Here you can paste the script. But first u need to make some change to make it c
 Replace ```CALENDAR_ID``` with your calendar id (you can find it in calendar settings)
 Replace ```NAME_OF_SHEET``` whith the name you set to the sheet that manage the events
 ### On appscriptCalendar.js
->On row 2:    ```var calendarId = "CALENDAR_ID";```
->On row 68:   ```var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("NAME_OF_SHEET");```
+On row 2:    ```var calendarId = "CALENDAR_ID";``` 
+
+On row 68:   ```var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("NAME_OF_SHEET");```
 ### On appscriptCalendar.js
 At the begining you have a mapper
 ```
