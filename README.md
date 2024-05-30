@@ -1,5 +1,5 @@
 # Couple of script for sync events of calendar, edit and confirm in case of collab
-### They are just template to edit and use as you need. In this case I just show you how i use it so u can edit it in base at your need.
+### They are just template to edit and use as you need. In this case I just show you how i use it soyoucan edit it in base at your need.
 * appscriptCalendar.js it's made to manage one calendar in one page
 * appscriptCalendarMultiple.js its made to manage more calendar in more page
 ### All calendar ar associeted with a single page of google sheets as we see
@@ -29,7 +29,7 @@ I setted my documents with the follow columns
   + Evry "manual import" is refered only to the current Sheet
 # Install
 After you create your table you need to go in Extensione -> AppScript
-Here you can paste the script. But first u need to make some change to make it compatible with your project.
+Here you can paste the script. But firstyouneed to make some change to make it compatible with your project.
 ## Change you need to do (this is valid for both file)
 Replace ```CALENDAR_ID``` with your calendar id (you can find it in calendar settings)
 Replace ```NAME_OF_SHEET``` whith the name you set to the sheet that manage the events
